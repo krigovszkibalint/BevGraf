@@ -16,12 +16,3 @@ d:\Troll\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\obj\Debug\GrafikaAl
 d:\Troll\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
 d:\Troll\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
 d:\Troll\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.Cache
-D:\Users\User\Desktop\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\bin\Debug\GrafikaAlap.exe.config
-D:\Users\User\Desktop\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\bin\Debug\GrafikaAlap.exe
-D:\Users\User\Desktop\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\bin\Debug\GrafikaAlap.pdb
-D:\Users\User\Desktop\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
-D:\Users\User\Desktop\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
-D:\Users\User\Desktop\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
-D:\Users\User\Desktop\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\obj\Debug\GrafikaAlap.exe
-D:\Users\User\Desktop\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\obj\Debug\GrafikaAlap.pdb
-D:\Users\User\Desktop\2021_22 I  - BevGraf - DT\01_Primitivek\GrafikaAlap\obj\Debug\GrafikaAlap.csprojAssemblyReference.cache

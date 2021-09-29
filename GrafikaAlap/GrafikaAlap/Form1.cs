@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using GrafikaDLL;
 
 namespace GrafikaAlap
 {
@@ -21,7 +22,7 @@ namespace GrafikaAlap
 
         private void canvas_Paint(object sender, PaintEventArgs e)
         {
-            g = e.Graphics;
+            g = e.Graphics;            
         }
         private void canvas_MouseDown(object sender, MouseEventArgs e)
         {

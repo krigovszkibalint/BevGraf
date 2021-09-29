@@ -15,5 +15,19 @@ namespace GrafikaDLL
         {
             return Math.Abs(e.X - p.X) <= eps && Math.Abs(e.Y - p.Y) <= eps;            
         }
+
+        public static bool Catch(this MouseEventArgs e, Rectangle rect, 
+            out float dx, out float dy)
+        {
+            dx = 0; dy=0;
+            if (rect.Left <= e.X && e.X < rect.Right &&
+                rect.Top <= e.Y && e.Y < rect.Bottom)
+            {
+                dx = e.X - rect.Left;
+                dy = e.Y - rect.Top;
+                return true;
+            }
+            return false;
+        }
     }
 }
